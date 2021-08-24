@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project from FlutLab2
+A new Flutter project from FlutLab2~3
 
 ## Getting Started
 
