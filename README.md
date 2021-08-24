@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project from local _branch dev
+A new Flutter project from FlutLab
 
 ## Getting Started
 
